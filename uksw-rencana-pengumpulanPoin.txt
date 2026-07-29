@@ -6,5 +6,6 @@ RENCANA PENGUMPULAN POIN UKSW
     ^ AIESEC
 - Kepanitiaan
   * Event FTI
+  * Event Univ
 - Asdos
 - Webinar
