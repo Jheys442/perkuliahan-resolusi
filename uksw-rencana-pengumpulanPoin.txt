@@ -1,8 +1,9 @@
 RENCANA PENGUMPULAN POIN UKSW
 
--satu organisasi
+- Satu organisasi
   * bukan LK
   * sesuai minat
--Kepanitiaan
--Asdos
--webinar
+- Lomba
+- Kepanitiaan
+- Asdos
+- Webinar
